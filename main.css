@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  
+  .header {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    height: 120px;
+  }
+  
+  .main {
+    background-color: #8181e3;
+    padding: 20px;
+    text-align: center;
+    height: 487px;
+  
+  }
+  
+  .footer {
+    background-color: lightblue;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    height: 120px;
+}
+
+*/
